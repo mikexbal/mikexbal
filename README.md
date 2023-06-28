@@ -3,8 +3,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python</b>
-  - [NAME](LINK TO GIT)
+- [PROJECT NAME]
+(LINK TO GIT)
+
 <hr>
 <h1> 🤳 Connect with me:</h1>
 <h3>Email 📧 </h3><a href=mailto: mxbalogun@gmaail.com>Mxbalogun@gmail.com</a><br><br>
