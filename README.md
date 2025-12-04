@@ -4,7 +4,7 @@
 <h2>👨‍💻 About Me:</h2>
 
 Hi, I'm Michael Balogun! A senior Information Science and Technology undergraduate at Temple University. I have a passion for leveraging technology to streamline processes, enhance system efficiencies, and drive digital transformation through web development. I'm committed to developing innovative web solutions that increase accessibility and create meaningful impact across businesses and communities.
-(LINK TO GIT)
+
 
 <hr>
 <h1> 🤳 Connect with me:</h1>
